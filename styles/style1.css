@@ -120,7 +120,6 @@ div.img{
     width: 40%;
     margin-left: auto;
     margin-right: auto;
-    padding: 4em;
 }
 section.about .profile-img{
     width: 100%;
@@ -312,6 +311,10 @@ p {
     color: white;
     padding: 2em;
     text-align: center;
+}
+.job-titles{
+    color: #f06157;
+    font-size: 20pt;
 }
 
 /*---Footer---*/
